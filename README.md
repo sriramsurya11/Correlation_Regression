@@ -29,3 +29,4 @@ Register Number: 212223040207
 
 # Result
 
+The Correlation and regression for data analysis of objects from feeder using probability distribution are calculated.
